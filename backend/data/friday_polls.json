@@ -30,8 +30,13 @@
     ],
     "startDate": "2026-03-03",
     "endDate": "2026-03-09",
-    "status": "active",
-    "winner": null,
+    "status": "closed",
+    "winner": {
+      "suggestionId": "sug001",
+      "title": "Office Scavenger Hunt",
+      "emoji": "🔍",
+      "votes": 7
+    },
     "totalVotes": 18,
     "voters": [
       "emp002",
